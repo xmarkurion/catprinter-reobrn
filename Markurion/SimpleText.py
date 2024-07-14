@@ -1,4 +1,3 @@
-# Importing Image and ImageFont, ImageDraw module from PIL package  
 from PIL import Image, ImageDraw  
 from Textoinator import Textoinator
 
